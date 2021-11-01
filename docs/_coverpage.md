@@ -1,6 +1,6 @@
 ![logo](_media/fsmp.png)
 
-# FireSMP Docs <small>1.0</small>
+# FireSMP Docs <small>1.2</small>
 
 > Welcome!
 
