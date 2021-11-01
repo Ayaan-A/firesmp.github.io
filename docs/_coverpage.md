@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_media/ficon.png)
 
 # FireSMP Docs <small>1.0</small>
 
