@@ -1,5 +1,3 @@
-![logo](_media/image2vector.svg)
-
 # FireSMP Docs <small>1.0</small>
 
 > Welcome!
