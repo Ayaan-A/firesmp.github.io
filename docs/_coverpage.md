@@ -1,12 +1,9 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# FireSMP Docs <small>1.0</small>
 
-> A magical documentation site generator.
+> Welcome!
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- Support is always here ;)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#home)
