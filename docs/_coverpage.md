@@ -6,4 +6,4 @@
 
 - Support is always here ;)
 
-[Get Started](#home)
+[Get Started](#firesmp-documentation)
