@@ -6,4 +6,4 @@
 
 - Support is always here ;)
 
-[Get Started](#homepage) [FAQ](#faq)
+[Get Started](#homepage) [FAQ](https://docs.firesmpmcbe.com/#/faq)
