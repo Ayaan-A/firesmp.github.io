@@ -140,7 +140,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 If you have questions or comments about this notice, you may email us at firesmpmcbe@gmail.com.
 
-FireSMP
+FireSMP,
 United Kingdom
 
 13\. **HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
