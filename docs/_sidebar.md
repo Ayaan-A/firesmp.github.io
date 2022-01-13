@@ -1,7 +1,7 @@
 * Getting started
 
-  * [Homepage](README.md)
-  * [FAQ]
+  * [Homepage](/)
+  * [FAQ](faq.md)
 
 * How To Play
 
