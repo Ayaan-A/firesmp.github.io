@@ -1,6 +1,6 @@
 * Getting started
 
-  * [Homepage](https://docs.firesmpmcbe.com/#/?id=homepage)
+  * [Homepage](README.md)
   * [FAQ](faq.md)
 
 * How To Play
