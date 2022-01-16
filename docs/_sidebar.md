@@ -2,6 +2,7 @@
 
   * [Homepage](home.md)
   * [FAQ](faq.md)
+  * [Staff](staff.md)
 
 * How To Play
 
