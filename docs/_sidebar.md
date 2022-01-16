@@ -1,6 +1,6 @@
 * Getting started
 
-  * [Homepage](README.md)
+  * [Homepage](home.md)
   * [FAQ](faq.md)
 
 * How To Play
