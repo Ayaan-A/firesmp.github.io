@@ -3,7 +3,6 @@
 > To get started, with FireSMP, first enter the IP and port:   
 
 IP: `play.firesmp.net`    
-
 PORT: `19132` *for bedrock clients only!*
 
 
